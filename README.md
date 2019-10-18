@@ -1,6 +1,9 @@
 # Analyzing-police-activity:
 It is a data set of traffic stop by police officers. Data set was taken from Stanford open policing
 project https://openpolicing.stanford.edu. Finding are as below:
+
+
+
 About two-thirds of female traffic stops are for speeding, whereas stops of
 males are more balanced among the six categories of violation. About 95 % of
 stops for speeding result in a ticket and the numbers are similar for males and
